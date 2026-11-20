@@ -3,6 +3,8 @@
 > Proyecto en equipo del bootcamp: [Esra Kesken](https://github.com/esrakesken), [David Lafuente](https://github.com/davidlafuentem), [Miguel Matesanz](https://github.com/mmatesanzg23) y [Beste Ozaydin](https://github.com/BesteOzaydin).
 > 
 > Repositorio original, con issues y pull requests: [T6-P5-Classification/bcn-price-classifier](https://github.com/T6-P5-Classification/bcn-price-classifier)
+>
+> **Trabajo en equipo:** el EDA, la limpieza de datos, la ingeniería de variables y el protocolo de evaluación los hicimos entre todos. **Mi parte principal:** modelo LightGBM con Optuna, elección del modelo campeón y evaluación final en test, guardado de predicciones y feedback en la app, Docker y Docker Compose, tests de métricas, A/B testing y detección de data drift.
 
 
 Clasificador del **segmento de precio anunciado por noche** de alojamientos
@@ -90,7 +92,7 @@ raíz del repositorio. La rama de integración es `dev`.
 Los siguientes comandos descargan el repositorio y crean archivos locales:
 
 ```bash
-git clone --branch dev https://github.com/T6-P5-Classification/bcn-price-classifier.git
+git clone https://github.com/esrakesken/bcn-price-classifier.git
 cd bcn-price-classifier
 ```
 
@@ -551,7 +553,7 @@ docs/         Decisiones, guías y resultados agregados
 | Tema | Referencia |
 |---|---|
 | Informe técnico del proyecto | [Problema, datos, evaluación y resultados](docs/informe_tecnico.md) |
-| Presentación técnica (20 minutos orientativos) | [Google Slides](https://docs.google.com/presentation/d/1zSvjH1LRa9Q_JK8cMZpOBaoV3WFl84wj65ChRRJQVkU/edit) / [Guion y verificación](docs/presentacion_tecnica.md) |
+| Presentación técnica (20 minutos orientativos) | [Diapositivas (PDF)](docs/presentacion.pdf) / [Guion y verificación](docs/presentacion_tecnica.md) |
 | Acuerdos y salvedades de modelado | [Decisiones](docs/decisiones.md) |
 | Guía de comprobación por issue | [Pruebas manuales](docs/pruebas_manuales.md) |
 | EDA por distrito y habitación | [EDA](docs/eda_distritos_room_type.md) |
