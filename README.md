@@ -1,5 +1,9 @@
 # 🏠 bcn-price-classifier
 
+> Proyecto en equipo del bootcamp: [Esra Kesken](https://github.com/esrakesken), [David Lafuente](https://github.com/davidlafuentem), [Miguel Matesanz](https://github.com/mmatesanzg23) y [Beste Ozaydin](https://github.com/BesteOzaydin).
+> Repositorio original, con issues y pull requests: [T6-P5-Classification/bcn-price-classifier](https://github.com/T6-P5-Classification/bcn-price-classifier)
+
+
 Clasificador del **segmento de precio anunciado por noche** de alojamientos
 Airbnb en Barcelona: **Económico, Medio o Premium**. Proyecto educativo de
 clasificación multiclase, con preparación compartida, comparación de modelos
